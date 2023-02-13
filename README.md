@@ -1,5 +1,5 @@
 # DQN_Cartpole
-Deep Q Network Solution to the Cartpole Problem written in Jupyter Notebook. Thoroughly commented for anyone relatively new to machine learning.
+Deep Q Network Solution to the Cartpole Problem written in Jupyter Notebook using the Keras library, OpenAI's Gym, and TensorFlow on the backend. The code is thoroughly commented in attempt to improve readability for anyone relatively new to machine learning.
 
 # The Neural Network Model
 self.model = Sequential()  
