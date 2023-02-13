@@ -1,5 +1,5 @@
 # DQN_Cartpole
-Deep Q Network Solution to the Cartpole Problem
+Deep Q Network Solution to the Cartpole Problem written in Jupyter Notebook. Thoroughly commented for anyone relatively new to machine learning
 
 # Cartpole in action
 ![DQN_Cartpole_Screenshot_Environment](https://user-images.githubusercontent.com/88697660/218208279-93d4f6d8-df5e-4d56-a50c-3282b54ac4c4.png)
